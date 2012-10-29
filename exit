@@ -1,0 +1,59 @@
+[33mcommit 30f44673adaf88cbbcbbf63e63accb14af4f6f4b[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Thu Oct 25 19:50:16 2012 -0200
+
+    Finish user signup
+
+[33mcommit db3c6262d0c62a4ba026ca0e3b6dbf826c293ef2[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Thu Oct 25 19:44:48 2012 -0200
+
+    Add SSL in production
+
+[33mcommit dd91cab6d47313192c3867016c1e23ab1c8c74aa[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Thu Oct 25 19:43:30 2012 -0200
+
+    Finish user signup
+
+[33mcommit e5f7d263f4d9d83f9425bf96be84e2100d34500c[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Wed Oct 24 18:50:12 2012 -0200
+
+    Make a basic User model (including secure passwords)
+
+[33mcommit db58dab069faee9c2c3e92ad9904b23ac6430121[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Tue Oct 23 14:07:16 2012 -0200
+
+    Finish layout and routes
+
+[33mcommit 20f8987ffa82e2fc399873c0502a8666a89908d9[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Mon Oct 22 17:42:10 2012 -0200
+
+    Add a full_title helper
+
+[33mcommit a80d5d201af835ad2e2b871594a8cb6b17444a82[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Wed Oct 10 18:16:08 2012 -0300
+
+    Finish static pages
+
+[33mcommit daf2ce1b5ff90137d9217846d89ed4e6b5204e6d[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Wed Oct 10 16:11:18 2012 -0300
+
+    Add a StaticPages controller
+
+[33mcommit 604126545bebec00b1ea4b07624559f8c56a8beb[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Wed Oct 10 15:27:24 2012 -0300
+
+    Improve the README
+
+[33mcommit c65bceacda85d71da9c7b9139dfe53f671f394bd[m
+Author: Kenzo <kznw408@yahoo.com>
+Date:   Wed Oct 10 15:26:03 2012 -0300
+
+    Initial commit
